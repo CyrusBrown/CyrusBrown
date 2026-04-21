@@ -3,9 +3,12 @@
 - @frc1678 member
 - Doozer Disciple
 - Math enjoyer
+- Dynamical systems connoisseur
 - Main Languages
   - Python
   - Svelte
   - TI-BASIC
   - Glsl
   - Desmos
+  - Rust
+  - Godot
